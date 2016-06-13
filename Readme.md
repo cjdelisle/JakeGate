@@ -75,6 +75,13 @@ https://www.buzzfeed.com/josephbernstein/sources-tor-project-board-knew-about-al
 
 ---
 
+* 6:00PM June 9 2016
+* CCC Updates ‏@chaosupdates  Jun 9
+* Be excellent to each other http://ccc.de/de/updates/2016/a-reminder-to-be-excellent-to-each-other …
+https://twitter.com/chaosupdates/status/740936637044006912
+
+---
+
 * 9:56AM June 8 2016
 * Banasidhe ‏@banasidhe  Jun 8
 * @violetblue Years of knowing compounded by the knowing that saying more than "I have my reasons for not trusting him" would just be "drama".
@@ -130,6 +137,13 @@ https://www.buzzfeed.com/josephbernstein/sources-tor-project-board-knew-about-al
 * "He said, they said" - I wrote about what it was like being involved with Jacob.
 https://hypatia.ca/2016/06/07/he-said-they-said/
 * https://twitter.com/hypatiadotca/status/740339378233315328
+
+---
+
+* 10:13PM June 7 2016
+* Oxblood Ruffin 3.0 ‏@OxbloodRuffin
+* cc @torproject @ioerror and everyone else.  *contains a screencap of a long account on facebook by Emerson Tan*
+* https://twitter.com/OxbloodRuffin/status/740275426581450753
 
 ---
 
@@ -211,3 +225,10 @@ https://medium.com/@nickf4rr/hi-im-nick-farr-nickf4rr-35c32f13da4d#.wzobf6jog
 * May 26 2016
 * pub  4096R/799AE1F2 2016-05-26 Jacob Appelbaum's Victims Collective <jacobsvictims@gmail.com>
 * https://pgp.mit.edu/pks/lookup?op=vindex&search=0x2784B696799AE1F2
+
+---
+
+* 12:04AM May 25
+* Andreⓐ ‏@puellavulnerata  May 25
+* A precommitment: bfb9a7c833a5fc8f5a938d816b1bbc4acaa06519fdb1af4c8632719596807dac
+* https://twitter.com/puellavulnerata/status/735230102154448898
