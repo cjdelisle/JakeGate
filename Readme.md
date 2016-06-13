@@ -186,6 +186,13 @@ https://medium.com/@nickf4rr/hi-im-nick-farr-nickf4rr-35c32f13da4d#.wzobf6jog
 
 ---
 
+* Jaime Cochran
+* ‏@ACKFlags Jaime Cochran Retweeted Sài Gòn Séamus ( https://twitter.com/SaiGonSeamus/status/738974558867202048 )
+* Oh I was very VERY vocal about Goth Jake. He stole research from many of my friends, it's up to them to speak out.
+* https://twitter.com/ACKFlags/status/738975313170825216
+
+---
+
 * 5:27AM June 4
 * https://github.com/ioerrror/jacobappelbaum.net/commit/5c282db2ff02ef7844e796a80c5b80ba1ac71482
 * *This repository seems to have been re-created a number of times with no history visible*
