@@ -22,7 +22,7 @@ Caleb
 
 ---
 
-* 12:45 June 12 2016
+* 12:45AM June 12 2016
 * Quinn Norton ‏@quinnnorton
 * Jake has humiliated and even threatened to rape a friend of mine in front of me. But hey, #notallwomen.
 * https://twitter.com/quinnnorton/status/741763431389241345
@@ -59,7 +59,7 @@ Read: http://tl.gd/n_1sop8ps
 
 ---
 
-* 10:26 June 9 2016
+* 10:26PM June 9 2016
 * Cryptome ‏@Cryptomeorg  Jun 9
 * Jacob Appelbaum Suspension 2015
 https://cryptome.org/2016/06/appelbaum-suspension-2015.pdf …
@@ -162,6 +162,21 @@ https://hypatia.ca/2016/06/07/he-said-they-said/
 
 ---
 
+* 8:52PM June 6 2016
+* Franklin Bynum ‏@frabyn
+* Decoding Jake Appelbaum https://medium.com/@frabyn/decoding-jake-appelbaum-9fa75d060310
+* https://twitter.com/frabyn/status/739892839509688320
+*In which he points out that Jake never directly denied any of the allegations*
+
+---
+
+* 2:25PM June 6 2016
+* lex ‏@lex_is
+* From Montreal's activist scene to #Tor I can't help but feel like it's the same story every time: https://lexgill.com/2016/06/06/three-hundred-and-twenty-four/
+* https://twitter.com/lex_is/status/739795427646668801
+
+---
+
 * 5:57AM June 6 2016
 * Quinn Norton ‏@quinnnorton  Jun 6
 * Quinn Norton Retweeted Nick Farr ( https://twitter.com/Nickf4rr/status/739521667139932161 )
@@ -186,6 +201,21 @@ https://medium.com/@nickf4rr/hi-im-nick-farr-nickf4rr-35c32f13da4d#.wzobf6jog
 
 ---
 
+* 9:04AM June 5 2016
+* Tom Lowenthal ‏@flamsmark  Jun 5
+* Really glad that Appelbaum is no longer a Tor Project employee, but if even half of the things I've been told are true, he should be in jail
+* https://twitter.com/flamsmark/status/739352097095749632
+
+---
+
+* 10:26AM June 4 2016
+* Jürgen Geuter ‏@tante  Jun 4
+* After years of whispered warnings some had enough of Jake Appelbaum's emotional and sexual abuse and went public http://jacobappelbaum.net
+* https://twitter.com/tante/status/739010515972816896
+
+---
+
+* 8:06AM June 4 2016
 * Jaime Cochran
 * ‏@ACKFlags Jaime Cochran Retweeted Sài Gòn Séamus ( https://twitter.com/SaiGonSeamus/status/738974558867202048 )
 * Oh I was very VERY vocal about Goth Jake. He stole research from many of my friends, it's up to them to speak out.
@@ -193,7 +223,7 @@ https://medium.com/@nickf4rr/hi-im-nick-farr-nickf4rr-35c32f13da4d#.wzobf6jog
 
 ---
 
-* 5:27AM June 4
+* 5:27AM June 4 2016
 * https://github.com/ioerrror/jacobappelbaum.net/commit/5c282db2ff02ef7844e796a80c5b80ba1ac71482
 * *This repository seems to have been re-created a number of times with no history visible*
 
