@@ -274,6 +274,13 @@ https://medium.com/@nickf4rr/hi-im-nick-farr-nickf4rr-35c32f13da4d#.wzobf6jog
 
 ---
 
+* 12:08AM May 27 2016
+* Ei/Ψ ‏@Ei_PSI  May 27
+* Thanks to audience & speakers for a constructive & interesting event https://www.win.tue.nl/eipsi/surveillance.html … Hope that @ioerror will get better soon.
+* https://twitter.com/Ei_PSI/status/735955777266028544
+
+---
+
 * 12:55PM May 26 2016
 * "created_at": "2016-05-26T10:55:56Z",
 * https://api.github.com/users/ioerrror
