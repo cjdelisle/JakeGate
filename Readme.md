@@ -90,6 +90,13 @@ https://twitter.com/chaosupdates/status/740936637044006912
 
 ---
 
+* 9:25PM June 8 2016
+* Bill Budington ‏@legind  Jun 8
+* Freedom of the Press Foundation removes Jacob Appelbaum from its Technical Advisory Board https://freedom.press/blog/2016/06/statement-jacob-appelbaum … @FreedomofPress
+* https://twitter.com/legind/status/740625832842911744
+
+---
+
 * 9:56AM June 8 2016
 * Banasidhe ‏@banasidhe  Jun 8
 * @violetblue Years of knowing compounded by the knowing that saying more than "I have my reasons for not trusting him" would just be "drama".
