@@ -44,6 +44,14 @@ Caleb
 
 ---
 
+* 6:51PM June 10 1026
+* Bill Budington ‏@legind
+* On abuse verification: I personally witnessed the testimony of Phoenix, and heard first-hand accounts of numerous other reports from victims
+* https://twitter.com/legind/status/741311763484790786
+* *clarified: He witnessed the incident "Phoenix" in jacobapplebaum.net https://twitter.com/legind/status/742052332540567552*
+
+---
+
 * 10:53PM June 9 2016
 * Cyrus Farivar ‏@cfarivar  Jun 9
 * Like @Cryptomeorg, I was anonymously sent a 2015 @torproject internal email reprimanding Jacob Appelbaum (@ioerror). https://www.documentcloud.org/documents/2858268-Appelbaum-Wurde-Im-Jahr-2015-Ausgesetzt.html …
@@ -151,6 +159,13 @@ https://hypatia.ca/2016/06/07/he-said-they-said/
 * denkiii ‏@denkiii
 * cDc - "we've decided to remove Jake from the herd effective immediately". https://www.facebook.com/cultdeadcow/posts/10157076402890360 …
 * https://twitter.com/denkiii/status/740222910472847360
+
+---
+
+* 1:56AM June 7 2016
+* Confection Imagineer ‏@OaklandElle  Jun 7
+* This behavior has not been isolated. Jake has been a missing stair people have quietly warned one another about for years.
+* https://twitter.com/OaklandElle/status/739969198089084929
 
 ---
 
