@@ -4,6 +4,12 @@ This is an attempt to collect all of the things which might be newsworthy in pie
 clear view of what went on around the beginning of June 2016 regarding TorProject and
 Jacob Appelbaum.
 
+DISCLAMER: I (Caleb, the maintainer) am not associated with any vanity twitter accounts and for
+many reasons I do not condone "mob justice", one reason which should be clear to everyone is because
+it creates a "fog of war" and a situation where it appears "everybody is in the wrong". Lets be
+excellent, collect the information, present it and let people decide for themselves where they
+stand. If you want to reach me I'm @cjdelisle on twitter.
+
 Contributions appreciated:
 * Sourced material only, must include a link
 * Must include a timestamp, times are given in GMT+2 - Paris time (deal with it)
