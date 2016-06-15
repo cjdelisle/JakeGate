@@ -2,7 +2,7 @@
 
 * [The Accusations](#the-accusations)
 * [Statements from Organizations](#statements-from-organizations)
-* [Statements in Solidarity with Jake](#statements-in-solidarity-with-jake)
+* [Statements from Individuals](#statements-from-individuals)
 * [The Timeline](#the-timeline-oldest-at-the-bottom)
 * [Contributions](#contributions)
 * [Corrections](#corrections) **GO HERE IF YOU THINK SOMETHING IS INCORRECT OR MISLEADING**
@@ -50,9 +50,8 @@
 * **TorProject** [after extensive internal deliberation and discussion, Jacob stepped down from his position](#torproject-statement-june-4)
 * **@chaosupdates** [Be excellent to each other](#chaosupdates-6-00pm-june-9)
 
-## Statements in Solidarity with Jake
+## Statements from Individuals
 * **Under Construction**
-* If you would like to show solidarity, you can sign a statement here: https://ourresponse.org/
 
 ## The Timeline (oldest at the bottom)
 
