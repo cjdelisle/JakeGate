@@ -1,5 +1,6 @@
 # JakeGate
 
+* [Motivation](#motivation)
 * [The Accusations](#the-accusations)
 * [Statements from Organizations](#statements-from-organizations)
 * [Statements from Individuals](#statements-from-individuals)
@@ -7,6 +8,22 @@
 * [Contributions](#contributions)
 * [Corrections](#corrections) **GO HERE IF YOU THINK SOMETHING IS INCORRECT OR MISLEADING**
 * [Further Reading](#further-reading)
+
+## Motivation
+At the beginning of June 2016, news broke that a prominent member of the Hacker/Journalist/Leak
+Community had become the target of multiple serious allegations of sexual misconduct. I was aware
+of certain aspects of this person and after reading the accounts, certain things *clicked* for me
+which I had not seen or could not perceive before. If this person had acted alone, lead a
+double-life and secretly done terrible things, I might never have cared to collect this information.
+The most painful realization was that these things could never have been done alone, at every step
+of the way the Community *had* to have protected him, covered up the stories and shushed the
+victims. This event lead me to the tragic realization that the Open, Tolerant and Progressive Hacker
+Community of which I believed myself a member - was no more than a figment of my imagination.
+It is fair to say that in my heart I believe the victims, but I have chosen to maintain this
+repository with the highest level of impartiality that I can, so I might sleep at night even if I am
+proven to be wrong.
+
+*And ye shall know the truth, and the truth shall make you free.*
 
 ## The Accusations
 
