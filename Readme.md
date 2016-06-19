@@ -51,12 +51,9 @@ proven to be wrong.
 
 ### Rumors & "I was warned"
 * **tante** [After years of whispered warnings some had enough of Jake Appelbaum's emotional and sexual abuse and went public](#tante-10-26am-june-4)
-* **@oaklandelle** [Jake has been a missing stair people have quietly warned one another about for years](#oaklandelle-1-56am-june-7)
 * **@flamsmark** [if even half of the things I've been told are true, he should be in jail](#flamsmark-9-04am-june-5)
-* **@banasidhe** [saying more than "I have my reasons for not trusting him" would just be "drama"](#banasidhe-9-56am-june-8)
 
 ### Unclear
-* **@violetblue** [I've known Jake since 2005. This isn't new or recent behavior.](#violetblue-9-29am-june-8)
 * **@bcrypt** [I thought I knew which of my friends and heroes had been harmed by JA but the number grows each day](#bcrypt-6-52am-june-8)
 * **@lex_is** [From Montreal's activist scene to #Tor I can't help but feel like it's the same story every time](#lex_is-2-25pm-june-6)
 * **@maradydd** [People deserve to know why Tor evicted its resident sociopath](#maradydd-8-36pm-june-3)
@@ -66,11 +63,26 @@ proven to be wrong.
 * **@legind** [Freedom of the Press Foundation removes Jacob Appelbaum from its Technical Advisory Board](#legind-9-25pm-june-8)
 * **TorProject** [after extensive internal deliberation and discussion, Jacob stepped down from his position](#torproject-statement-june-4)
 * **@chaosupdates** [Be excellent to each other](#chaosupdates-6-00pm-june-9)
+* **@chaosupdates** *(8 days later)* [this means Jacob Appelbaum @ioerror is not welcome](#chaosupdates-3-25pm-june-17)
 
-## Statements from Individuals
-* **Under Construction**
+## Evidence of Coverup
+* **@banasidhe** [saying more than "I have my reasons for not trusting him" would just be "drama"](#banasidhe-9-56am-june-8)
+* **@oaklandelle** [Jake has been a missing stair people have quietly warned one another about for years](#oaklandelle-1-56am-june-7)
+* **@quinnorton** [oh, things happened, but the were specifically about silencing victims](#quinnnorton-8-58am-june-8)
+* **@violetblue** [I've known Jake since 2005. This isn't new or recent behavior.](#violetblue-9-29am-june-8)
 
 ## The Timeline (oldest at the bottom)
+
+### chaosupdates 3:25pm june 17
+* CCC Updates ‏@chaosupdates  5m5 minutes ago
+* Yes, of course this means Jacob Appelbaum @ioerror is not welcome. http://grin.to/ICZC1
+* https://twitter.com/chaosupdates/status/743796751694467073
+* *8 days and 2 rape accusations after their extremely vague statement, #CCC finally "clarifies" it. Jake's out.*
+
+### garrettr_ 6:58am june 16
+* Garrett Robinson ‏@garrettr_  17h17 hours ago San Francisco, CA
+* I am joining @legind and @micahflee in publicly stating that I can corroborate Phoenix's anonymous account on http://jacobappelbaum.net
+* https://twitter.com/garrettr_/status/743306833440342021
 
 ### isislovecruft 7:21pm june 15
 * isis agora lovecruft ‏@isislovecruft  1h1 hour ago Paris, France
@@ -157,6 +169,11 @@ https://twitter.com/chaosupdates/status/740936637044006912
 * For the record, I've known Jake since 2005. This isn't new or recent behavior. Many of us are just surprised it took this long to come out.
 * https://twitter.com/violetblue/status/740445576643383296
 
+### quinnnorton 8:58am june 8
+* Quinn Norton ‏@quinnnorton  Jun 8
+* @Dymaxion @kramse @hashbreaker oh, things happened, but the were specifically about silencing victims.
+* https://twitter.com/quinnnorton/status/740437786147336193
+
 ### quinnnorton 4:52am june 8
 * Quinn Norton ‏@quinnnorton
 * & 1 of the things a few people told me about J is that he directly threaten to set the mob on them & destroy their lives if they spoke out.
@@ -175,8 +192,7 @@ https://twitter.com/chaosupdates/status/740936637044006912
 
 ### hypatiadotca 2:27am june 8
 * Leigh Honeywell ‏@hypatiadotca  Jun 8
-* "He said, they said" - I wrote about what it was like being involved with Jacob.
-https://hypatia.ca/2016/06/07/he-said-they-said/
+* "He said, they said" - I wrote about what it was like being involved with Jacob. https://hypatia.ca/2016/06/07/he-said-they-said/
 * https://twitter.com/hypatiadotca/status/740339378233315328
 * *contains: "Jacob ignored my use of a safeword when his sexual behavior turned into violent behavior that violated my limits."*
 
@@ -242,6 +258,11 @@ https://medium.com/@nickf4rr/hi-im-nick-farr-nickf4rr-35c32f13da4d#.wzobf6jog
 * Really glad that Appelbaum is no longer a Tor Project employee, but if even half of the things I've been told are true, he should be in jail
 * https://twitter.com/flamsmark/status/739352097095749632
 
+### scroeser 6:25am june 5
+* sky croeser ‏@scroeser  Jun 5
+* Recent news about Tor seems utterly unsurprising to everyone. So why don't communities deal with this stuff sooner?
+* https://twitter.com/scroeser/status/739312141946081280
+
 ### tante 10:26am june 4
 * Jürgen Geuter ‏@tante  Jun 4
 * After years of whispered warnings some had enough of Jake Appelbaum's emotional and sexual abuse and went public http://jacobappelbaum.net
@@ -274,6 +295,14 @@ https://medium.com/@nickf4rr/hi-im-nick-farr-nickf4rr-35c32f13da4d#.wzobf6jog
 ### torproject jakeleaves june 2
 * June 2 2016
 * https://blog.torproject.org/blog/jacob-appelbaum-leaves-tor-project
+
+### jacobappelbaum.net registered 11:15pm may 27
+* Domain Name: JACOBAPPELBAUM.NET
+* Registry Domain ID: 2031748594_DOMAIN_NET-VRSN
+* Registrar WHOIS Server: whois.publicdomainregistry.com
+* Registrar URL: www.publicdomainregistry.com
+* Updated Date: 2016-05-27T21:15:40Z
+* Creation Date: 2016-05-27T21:15:39Z
 
 ### ei_psi 12:08am may 27
 * Ei/Ψ ‏@Ei_PSI  May 27
