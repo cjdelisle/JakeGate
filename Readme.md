@@ -63,7 +63,8 @@ proven to be wrong.
 * **@legind** [Freedom of the Press Foundation removes Jacob Appelbaum from its Technical Advisory Board](#legind-9-25pm-june-8)
 * **TorProject** [after extensive internal deliberation and discussion, Jacob stepped down from his position](#torproject-statement-june-4)
 * **@chaosupdates** [Be excellent to each other](#chaosupdates-6-00pm-june-9)
-* **@chaosupdates** *(8 days later)* [this means Jacob Appelbaum @ioerror is not welcome](#chaosupdates-3-25pm-june-17)
+ * **@chaosupdates** *(8 days later)* [this means Jacob Appelbaum @ioerror is not welcome](#chaosupdates-3-25pm-june-17)
+* **Debian Project** [Status Debian Developer, removed since 2016-06-18](#debian-june-18)
 
 ## Evidence of Coverup
 * **@banasidhe** [saying more than "I have my reasons for not trusting him" would just be "drama"](#banasidhe-9-56am-june-8)
@@ -72,6 +73,10 @@ proven to be wrong.
 * **@violetblue** [I've known Jake since 2005. This isn't new or recent behavior.](#violetblue-9-29am-june-8)
 
 ## The Timeline (oldest at the bottom)
+
+### debian june 18
+* Status Debian Developer, removed since 2016-06-18
+* https://nm.debian.org/public/person/error
 
 ### chaosupdates 3:25pm june 17
 * CCC Updates ‏@chaosupdates  5m5 minutes ago
