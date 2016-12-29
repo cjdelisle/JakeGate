@@ -28,7 +28,7 @@ proven to be wrong.
 ## The Accusations
 
 ### Rape / Sexual Assault
-* **@feminaecognosce** [Jacob Appelbaum raped me too...](#feminaecognosce-3-51am-december-22)
+* **@feminaecognosce** [Jacob Appelbaum raped me too...](#feminaecognosce-7-51pm-december-21)
 * **@isislovecruft** [Jacob Appelbaum sexually assaulted me. I'm Forest on http://jacobappelbaum.net](#isislovecruft-7-21pm-june-15)
 * **@flexlibris** [Jake Appelbaum sexually assaulted me, too. Read about why I'm going public, and what we can do now.](#flexlibris-6-18pm-june-15)
 * **@hypatiadotca** [Jacob ignored my use of a safeword](#hypatiadotca-2-27am-june-8)
@@ -82,7 +82,7 @@ proven to be wrong.
 * https://medium.com/@eqe/not-working-for-us-bff58e96c2ea … #33c3
 * https://twitter.com/eqe/status/814525213652041728
 
-### feminaecognosce 3:51am december 22
+### feminaecognosce 7:51pm december 21
 * Feminae Cognosce @feminaecognosce  17h17 hours ago
 * Jacob Appelbaum raped me too. I'd like to talk about how we can better address rape culture in the hacker community.
 * https://feminaecognosce.tumblr.com/post/154771883045/jacob-appelbaum-and-rape-culture-my-experience-in
