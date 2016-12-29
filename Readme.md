@@ -83,7 +83,7 @@ proven to be wrong.
 * https://twitter.com/eqe/status/814525213652041728
 
 ### feminaecognosce 3:51am december 22
-* Feminae Cognosce ‏@feminaecognosce  17h17 hours ago
+* Feminae Cognosce @feminaecognosce  17h17 hours ago
 * Jacob Appelbaum raped me too. I'd like to talk about how we can better address rape culture in the hacker community.
 * https://feminaecognosce.tumblr.com/post/154771883045/jacob-appelbaum-and-rape-culture-my-experience-in
 * https://twitter.com/feminaecognosce/status/811645214284660736
