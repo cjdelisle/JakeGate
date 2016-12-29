@@ -51,6 +51,7 @@ proven to be wrong.
 * **@maradydd** [Those "differences" being him ripping off our research in 2007](#maradydd-2-34pm-june-6)
 
 ### Rumors & "I was warned"
+* **@eqe** [It took me a few days to start to engage with my responsibility for the things that Jake had done.](#eqe-6-35am-december-29)
 * **tante** [After years of whispered warnings some had enough of Jake Appelbaum's emotional and sexual abuse and went public](#tante-10-26am-june-4)
 * **@flamsmark** [if even half of the things I've been told are true, he should be in jail](#flamsmark-9-04am-june-5)
 
@@ -74,6 +75,12 @@ proven to be wrong.
 * **@violetblue** [I've known Jake since 2005. This isn't new or recent behavior.](#violetblue-9-29am-june-8)
 
 ## The Timeline (oldest at the bottom)
+
+### eqe 6:35am december 29
+* eqe (Andy Isaacson) @eqe 2h2 hours ago
+* I've decided to share my experience and thoughts for the future about sexual assault in the hacker community.
+* https://medium.com/@eqe/not-working-for-us-bff58e96c2ea … #33c3
+* https://twitter.com/eqe/status/814525213652041728
 
 ### feminaecognosce 3:51am december 22
 * Feminae Cognosce ‏@feminaecognosce  17h17 hours ago
