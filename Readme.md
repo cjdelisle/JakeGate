@@ -28,52 +28,52 @@ proven to be wrong.
 ## The Accusations
 
 ### Rape / Sexual Assault
-* **@feminaecognosce** [Jacob Appelbaum raped me too...](#feminaecognosce-7-51pm-december-21)
-* **@isislovecruft** [Jacob Appelbaum sexually assaulted me. I'm Forest on http://jacobappelbaum.net](#isislovecruft-7-21pm-june-15)
-* **@flexlibris** [Jake Appelbaum sexually assaulted me, too. Read about why I'm going public, and what we can do now.](#flexlibris-6-18pm-june-15)
-* **@hypatiadotca** [Jacob ignored my use of a safeword](#hypatiadotca-2-27am-june-8)
+* **@feminaecognosce** [Jacob Appelbaum raped me too...](#feminaecognosce-751pm-december-21)
+* **@isislovecruft** [Jacob Appelbaum sexually assaulted me. I'm Forest on http://jacobappelbaum.net](#isislovecruft-721pm-june-15)
+* **@flexlibris** [Jake Appelbaum sexually assaulted me, too. Read about why I'm going public, and what we can do now.](#flexlibris-618pm-june-15)
+* **@hypatiadotca** [Jacob ignored my use of a safeword](#hypatiadotca-227am-june-8)
 
 ### Rape Threat
-* **@quinnnorton** [Jake has humiliated and even threatened to rape a friend of mine in front of me.](#quinnnorton-12-45am-june-12)
+* **@quinnnorton** [Jake has humiliated and even threatened to rape a friend of mine in front of me.](#quinnnorton-1245am-june-12)
 
 ### Harassement / Abuse / Bullying / Threats
-* **@nickf4rr** [This is the story of @ioerror's coordinated campaign of abuse towards me during the 30c3. My story is not unique.](#nickf4rr-8-17pm-june-5)
- - **@quinnnorton** [I was around for a lot of this story, and it was awful to watch.](#quinnnorton-5-57am-june-6)
-* **@violetblue** [30c3: where he threatened me as well, and I never returned](#violetblue-11-08pm-june-5)
-* **@legind** [On abuse verification: I personally witnessed the testimony of Phoenix](#legind-6-51pm-june-10)
-* **@violetblue** [his humiliation/bullying tactics didn't work to make me give in](#violetblue-9-32am-june-8)
-* **@violetblue** [I physically stopped him from harassing/trying to isolate and fuck a frightened female friend](#violetblue-9-34am-june-8)
-* **@quinnnorton** [a few people told me about J is that he directly threaten to set the mob on them](#quinnnorton-4-52am-june-8)
-* **@quinnnorton** [I've held the hands of ppl who talked about Jake's abuse. Sometimes they raged, sometimes cried. They were scared.](#quinnnorton-11-50pm-june-6)
-* **@hdevalence** [I resigned, due to sexual harassment, bullying, blackmail, and physical harm](#hdevalence-1-02am-march-17-2017)
+* **@nickf4rr** [This is the story of @ioerror's coordinated campaign of abuse towards me during the 30c3. My story is not unique.](#nickf4rr-817pm-june-5)
+ - **@quinnnorton** [I was around for a lot of this story, and it was awful to watch.](#quinnnorton-557am-june-6)
+* **@violetblue** [30c3: where he threatened me as well, and I never returned](#violetblue-1108pm-june-5)
+* **@legind** [On abuse verification: I personally witnessed the testimony of Phoenix](#legind-651pm-june-10)
+* **@violetblue** [his humiliation/bullying tactics didn't work to make me give in](#violetblue-932am-june-8)
+* **@violetblue** [I physically stopped him from harassing/trying to isolate and fuck a frightened female friend](#violetblue-934am-june-8)
+* **@quinnnorton** [a few people told me about J is that he directly threaten to set the mob on them](#quinnnorton-452am-june-8)
+* **@quinnnorton** [I've held the hands of ppl who talked about Jake's abuse. Sometimes they raged, sometimes cried. They were scared.](#quinnnorton-1150pm-june-6)
+* **@hdevalence** [I resigned, due to sexual harassment, bullying, blackmail, and physical harm](#hdevalence-102am-march-17-2017)
 
 ### Plagiarism
-* **@ackflags** [He stole research from many of my friends](#ackflags-8-06am-june-4)
-* **@maradydd** [Those "differences" being him ripping off our research in 2007](#maradydd-2-34pm-june-6)
+* **@ackflags** [He stole research from many of my friends](#ackflags-806am-june-4)
+* **@maradydd** [Those "differences" being him ripping off our research in 2007](#maradydd-234pm-june-6)
 
 ### Rumors & "I was warned"
-* **@eqe** [It took me a few days to start to engage with my responsibility for the things that Jake had done.](#eqe-6-35am-december-29)
-* **tante** [After years of whispered warnings some had enough of Jake Appelbaum's emotional and sexual abuse and went public](#tante-10-26am-june-4)
-* **@flamsmark** [if even half of the things I've been told are true, he should be in jail](#flamsmark-9-04am-june-5)
+* **@eqe** [It took me a few days to start to engage with my responsibility for the things that Jake had done.](#eqe-635am-december-29)
+* **tante** [After years of whispered warnings some had enough of Jake Appelbaum's emotional and sexual abuse and went public](#tante-1026am-june-4)
+* **@flamsmark** [if even half of the things I've been told are true, he should be in jail](#flamsmark-904am-june-5)
 
 ### Unclear
-* **@bcrypt** [I thought I knew which of my friends and heroes had been harmed by JA but the number grows each day](#bcrypt-6-52am-june-8)
-* **@lex_is** [From Montreal's activist scene to #Tor I can't help but feel like it's the same story every time](#lex_is-2-25pm-june-6)
-* **@maradydd** [People deserve to know why Tor evicted its resident sociopath](#maradydd-8-36pm-june-3)
+* **@bcrypt** [I thought I knew which of my friends and heroes had been harmed by JA but the number grows each day](#bcrypt-652am-june-8)
+* **@lex_is** [From Montreal's activist scene to #Tor I can't help but feel like it's the same story every time](#lex_is-225pm-june-6)
+* **@maradydd** [People deserve to know why Tor evicted its resident sociopath](#maradydd-836pm-june-3)
 
 ## Statements from Organizations
-* **@denkiii** [cDc - "we've decided to remove Jake from the herd effective immediately"](#denkiii-6-44pm-june-7)
-* **@legind** [Freedom of the Press Foundation removes Jacob Appelbaum from its Technical Advisory Board](#legind-9-25pm-june-8)
+* **@denkiii** [cDc - "we've decided to remove Jake from the herd effective immediately"](#denkiii-644pm-june-7)
+* **@legind** [Freedom of the Press Foundation removes Jacob Appelbaum from its Technical Advisory Board](#legind-925pm-june-8)
 * **TorProject** [after extensive internal deliberation and discussion, Jacob stepped down from his position](#torproject-statement-june-4)
-* **@chaosupdates** [Be excellent to each other](#chaosupdates-6-00pm-june-9)
- * **@chaosupdates** *(8 days later)* [this means Jacob Appelbaum @ioerror is not welcome](#chaosupdates-3-25pm-june-17)
+* **@chaosupdates** [Be excellent to each other](#chaosupdates-600pm-june-9)
+ * **@chaosupdates** *(8 days later)* [this means Jacob Appelbaum @ioerror is not welcome](#chaosupdates-325pm-june-17)
 * **Debian Project** [Status Debian Developer, removed since 2016-06-18](#debian-june-18)
 
 ## Evidence of Coverup
-* **@banasidhe** [saying more than "I have my reasons for not trusting him" would just be "drama"](#banasidhe-9-56am-june-8)
-* **@oaklandelle** [Jake has been a missing stair people have quietly warned one another about for years](#oaklandelle-1-56am-june-7)
-* **@quinnorton** [oh, things happened, but the were specifically about silencing victims](#quinnnorton-8-58am-june-8)
-* **@violetblue** [I've known Jake since 2005. This isn't new or recent behavior.](#violetblue-9-29am-june-8)
+* **@banasidhe** [saying more than "I have my reasons for not trusting him" would just be "drama"](#banasidhe-956am-june-8)
+* **@oaklandelle** [Jake has been a missing stair people have quietly warned one another about for years](#oaklandelle-156am-june-7)
+* **@quinnorton** [oh, things happened, but the were specifically about silencing victims](#quinnnorton-858am-june-8)
+* **@violetblue** [I've known Jake since 2005. This isn't new or recent behavior.](#violetblue-929am-june-8)
 
 ## The Timeline (oldest at the bottom)
 
