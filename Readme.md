@@ -45,6 +45,7 @@ proven to be wrong.
 * **@violetblue** [I physically stopped him from harassing/trying to isolate and fuck a frightened female friend](#violetblue-9-34am-june-8)
 * **@quinnnorton** [a few people told me about J is that he directly threaten to set the mob on them](#quinnnorton-4-52am-june-8)
 * **@quinnnorton** [I've held the hands of ppl who talked about Jake's abuse. Sometimes they raged, sometimes cried. They were scared.](#quinnnorton-11-50pm-june-6)
+* **@hdevalence** [I resigned, due to sexual harassment, bullying, blackmail, and physical harm](#hdevalence-1-02am-march-17-2017)
 
 ### Plagiarism
 * **@ackflags** [He stole research from many of my friends](#ackflags-8-06am-june-4)
@@ -75,6 +76,12 @@ proven to be wrong.
 * **@violetblue** [I've known Jake since 2005. This isn't new or recent behavior.](#violetblue-9-29am-june-8)
 
 ## The Timeline (oldest at the bottom)
+
+### hdevalence 1:02am march 17 2017
+* hdevalence (Henry de Valence)
+* I resigned, due to sexual harassment, bullying, blackmail, and physical harm as a result of their favorite student, Jacob Appelbaum, as well as Tanja and Dan's total abdication of their responsibility to manage the workplace environment in their research group.
+* https://medium.com/@hdevalence/when-hell-kept-on-payroll-somewhere-is-where-you-are-f419d3022d0
+* https://twitter.com/hdevalence/status/842526511915786240
 
 ### eqe 6:35am december 29
 * eqe (Andy Isaacson) @eqe 2h2 hours ago
